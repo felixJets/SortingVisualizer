@@ -1,5 +1,6 @@
 # Visualize Sorting
 tkinter-GUI for visualizing the procedure of different sorting algorithms.
+
 ![](images/GUI.png)
 
 ## Versions
